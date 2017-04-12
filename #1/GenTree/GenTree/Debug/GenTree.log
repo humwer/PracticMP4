@@ -1,0 +1,27 @@
+﻿Сборка начата 12.04.2017 13:46:11.
+     1>Проект "C:\Users\Олег\Desktop\МП\Лаб4\#1\GenTree\GenTree\GenTree.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Program Files (x86)\MVS 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GenTree.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GenTree.cpp
+         GenTree.cpp
+     1>c:\users\олег\desktop\мп\лаб4\#1\gentree\gentree\gentree.cpp(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\mvs 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\олег\desktop\мп\лаб4\#1\gentree\gentree\gentree.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\mvs 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\олег\desktop\мп\лаб4\#1\gentree\gentree\gentree.cpp(36): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\mvs 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\олег\desktop\мп\лаб4\#1\gentree\gentree\gentree.cpp(71): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\mvs 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\олег\desktop\мп\лаб4\#1\gentree\gentree\gentree.cpp(76): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\mvs 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\олег\desktop\мп\лаб4\#1\gentree\gentree\gentree.cpp(86): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\program files (x86)\mvs 12.0\vc\include\conio.h(131): см. объявление "getch"
+     1>c:\users\олег\desktop\мп\лаб4\#1\gentree\gentree\gentree.cpp(27): warning C4715: Search: значение возвращается не при всех путях выполнения
+       Link:
+         D:\Program Files (x86)\MVS 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Олег\Desktop\МП\Лаб4\#1\GenTree\Debug\GenTree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Олег\Desktop\МП\Лаб4\#1\GenTree\Debug\GenTree.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Олег\Desktop\МП\Лаб4\#1\GenTree\Debug\GenTree.lib" /MACHINE:X86 Debug\GenTree.obj
+         Debug\stdafx.obj
+         GenTree.vcxproj -> C:\Users\Олег\Desktop\МП\Лаб4\#1\GenTree\Debug\GenTree.exe
+     1>Сборка проекта "C:\Users\Олег\Desktop\МП\Лаб4\#1\GenTree\GenTree\GenTree.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.75
