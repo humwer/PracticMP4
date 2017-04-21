@@ -1,0 +1,31 @@
+﻿Сборка начата 21.04.2017 14:26:19.
+     1>Проект "C:\Users\Олег\Desktop\МП\Лаб4\#2\Tree\Tree\Tree.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Tree.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Tree.cpp
+         Tree.cpp
+     1>c:\users\олег\desktop\мп\лаб4\#2\tree\tree\tree.cpp(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\олег\desktop\мп\лаб4\#2\tree\tree\tree.cpp(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\олег\desktop\мп\лаб4\#2\tree\tree\tree.cpp(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\олег\desktop\мп\лаб4\#2\tree\tree\tree.cpp(44): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\олег\desktop\мп\лаб4\#2\tree\tree\tree.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\олег\desktop\мп\лаб4\#2\tree\tree\tree.cpp(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\олег\desktop\мп\лаб4\#2\tree\tree\tree.cpp(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\олег\desktop\мп\лаб4\#2\tree\tree\tree.cpp(87): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\program files (x86)\vc\include\conio.h(131): см. объявление "getch"
+     1>c:\users\олег\desktop\мп\лаб4\#2\tree\tree\tree.cpp(31): warning C4715: Search: значение возвращается не при всех путях выполнения
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Олег\Desktop\МП\Лаб4\#2\Tree\Debug\Tree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Олег\Desktop\МП\Лаб4\#2\Tree\Debug\Tree.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Олег\Desktop\МП\Лаб4\#2\Tree\Debug\Tree.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\Tree.obj
+         Tree.vcxproj -> C:\Users\Олег\Desktop\МП\Лаб4\#2\Tree\Debug\Tree.exe
+     1>Сборка проекта "C:\Users\Олег\Desktop\МП\Лаб4\#2\Tree\Tree\Tree.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.04
